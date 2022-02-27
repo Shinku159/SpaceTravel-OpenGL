@@ -1,20 +1,24 @@
-==========================================
-[CIC270] COMPUTAÇÃO GRÁFICA
-OpenGL - Universe Search - Trabalho 02
-==========================================
-Grupo:
+
+## [CIC270] COMPUTAÇÃO GRÁFICA
+## OpenGL - Universe Search - Trabalho 02
+
+## Grupo:
 Leonardo V. Ferreira - 2018009799
 Lucas P. de Souza  - 2018013138
 Thiago S. Pereira - 2018008209
------------------------------------------------------------------------------------
+
+## Execução:
 Os arquivos devem ser executados em ambiente
 Linux com OpenGl Instalado.
 
 Para execução:
-> Abra o cmd e vá até a pasta '/Codigo/src' do arquivo enviado 
-> Execute os comandos: 
+- Abra o cmd e vá até a pasta '/Codigo/src' do arquivo enviado 
+- Execute os comandos: 
+
+```
 $ make
 $ ./UniveserSearch
+```
 
 Utilize das teclas 'a' e 'd' para selecionar a cor da nave,
 'w' e 's' um tamanho e pressione enter. Na proxima
