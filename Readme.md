@@ -1,9 +1,9 @@
 ## [CIC270] COMPUTAÇÃO GRÁFICA: OpenGL - Universe Search - Trabalho 02
 
 ## Grupo:
-Leonardo V. Ferreira - 2018009799
-Lucas P. de Souza  - 2018013138
-Thiago S. Pereira - 2018008209
+Leonardo V. Ferreira 
+Lucas P. de Souza  
+Thiago S. Pereira 
 
 ## Execução:
 Os arquivos devem ser executados em ambiente
