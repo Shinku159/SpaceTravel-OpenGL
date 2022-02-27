@@ -1,6 +1,4 @@
-
-## [CIC270] COMPUTAÇÃO GRÁFICA
-## OpenGL - Universe Search - Trabalho 02
+## [CIC270] COMPUTAÇÃO GRÁFICA: OpenGL - Universe Search - Trabalho 02
 
 ## Grupo:
 Leonardo V. Ferreira - 2018009799
